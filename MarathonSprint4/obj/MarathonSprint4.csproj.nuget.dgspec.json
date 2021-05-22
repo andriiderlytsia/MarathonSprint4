@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SharpApps\\training\\marathon\\MarathonSprint4\\MarathonSprint4\\MarathonSprint4.csproj": {}
+    "C:\\Users\\usr\\source\\repos\\MarathonSprint4\\MarathonSprint4\\MarathonSprint4.csproj": {}
   },
   "projects": {
-    "E:\\SharpApps\\training\\marathon\\MarathonSprint4\\MarathonSprint4\\MarathonSprint4.csproj": {
+    "C:\\Users\\usr\\source\\repos\\MarathonSprint4\\MarathonSprint4\\MarathonSprint4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SharpApps\\training\\marathon\\MarathonSprint4\\MarathonSprint4\\MarathonSprint4.csproj",
+        "projectUniqueName": "C:\\Users\\usr\\source\\repos\\MarathonSprint4\\MarathonSprint4\\MarathonSprint4.csproj",
         "projectName": "MarathonSprint4",
-        "projectPath": "E:\\SharpApps\\training\\marathon\\MarathonSprint4\\MarathonSprint4\\MarathonSprint4.csproj",
+        "projectPath": "C:\\Users\\usr\\source\\repos\\MarathonSprint4\\MarathonSprint4\\MarathonSprint4.csproj",
         "packagesPath": "C:\\Users\\usr\\.nuget\\packages\\",
-        "outputPath": "E:\\SharpApps\\training\\marathon\\MarathonSprint4\\MarathonSprint4\\obj\\",
+        "outputPath": "C:\\Users\\usr\\source\\repos\\MarathonSprint4\\MarathonSprint4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
