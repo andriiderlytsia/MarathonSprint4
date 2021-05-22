@@ -29,7 +29,7 @@ namespace MarathonSprint4
             //Person person = new Person();
             //person.Company = new Company() { CompName = "234" };
             //Console.WriteLine(person.Company.CompName.CompareTo("234s"));
-            Console.WriteLine( "end");
+            
 
         }
     }
